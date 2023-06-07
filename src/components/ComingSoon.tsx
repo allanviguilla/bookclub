@@ -1,15 +1,7 @@
 import "@fontsource/ibm-plex-mono/700.css";
 import "@fontsource/roboto-condensed/300.css";
 
-import {
-  Flex,
-  Box,
-  Heading,
-  Image,
-  Text,
-  Center,
-  VStack,
-} from "@chakra-ui/react";
+import { Flex, Box, Heading, Text, VStack } from "@chakra-ui/react";
 
 export default function ComingSoon() {
   return (
