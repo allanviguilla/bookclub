@@ -21,7 +21,7 @@ export default function ComingSoon() {
               BOOK CLUB
             </Heading>
             <Text textAlign="center" color="white" fontSize="2xl">
-              COMING SOON
+              COMING SOON.
             </Text>
           </Box>
           <Box>
