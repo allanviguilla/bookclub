@@ -21,7 +21,7 @@ export default function ComingSoon() {
               BOOK CLUB
             </Heading>
             <Text textAlign="center" color="white" fontSize="2xl">
-              COMING SOON.
+              COMING SOON <br /> SUMMER 2025
             </Text>
           </Box>
           <Box>
@@ -29,7 +29,8 @@ export default function ComingSoon() {
               <Image
                 borderRadius="20"
                 boxSize="275"
-                src="src/assets/bookclub-teaser.jpeg"
+                src="https://imagizer.imageshack.com/img922/8487/fKsV55.jpg"
+                alt="Book Club Teaser"
               />
             </Center>
           </Box>
