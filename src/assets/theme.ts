@@ -7,8 +7,8 @@ const theme = extendTheme({
     tertiary: "#212047",
   },
   fonts: {
-    heading: `'Roboto Condensed', sans-serif`,
-    body: `'IBM Plex Mono', sans-serif`,
+    heading: `'IBM Plex Mono', sans-serif`,
+    body: `'Roboto Condensed', sans-serif`,
   },
 });
 

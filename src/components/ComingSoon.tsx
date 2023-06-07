@@ -1,5 +1,6 @@
 import "@fontsource/ibm-plex-mono/700.css";
 import "@fontsource/roboto-condensed/300.css";
+import "@fontsource/roboto-condensed/400.css";
 
 import { Flex, Box, Heading, Text, VStack } from "@chakra-ui/react";
 
@@ -10,10 +11,18 @@ export default function ComingSoon() {
         <Box m="auto">
           <Box>
             <Heading textAlign="center" color="white" size="3xl">
-              BOOK CLUB
+              B00K CLUB
             </Heading>
             <Text textAlign="center" color="white" fontSize="2xl">
-              COMING SOON <br /> SUMMER 2025
+              COMING SOON
+            </Text>
+            <Text
+              textAlign="center"
+              color="white"
+              fontSize="2xl"
+              fontWeight="300"
+            >
+              SUMMER 2025
             </Text>
           </Box>
         </Box>
